@@ -1,9 +1,4 @@
 
-# Amigo Secreto
-
-<img width="1024" height="833" alt="image" src="https://github.com/user-attachments/assets/d52e84cc-c573-4b98-8e51-f57a28c6e159" />
-
----
 
 ### O que é o projeto Amigo Secreto?
 
